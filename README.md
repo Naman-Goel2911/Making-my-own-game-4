@@ -1,2 +1,2 @@
-# Making-my-own-game-4
-Survive the island!!
+# p5.play-boilerplate
+Boiler plate for p5.play
